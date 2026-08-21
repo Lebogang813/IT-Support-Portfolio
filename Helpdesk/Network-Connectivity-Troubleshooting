@@ -1,16 +1,20 @@
 Network Connectivity Troubleshooting – First-Line Support
+
 Overview
+
 During my IT support experience at The Documented Warehouse,I assisted users with network and internet connectivity issues across multiple 
 branches.
 Troubleshooting was performed remotely through the helpdesk or with users/branch contacts when physical assistance was required.
+
 Troubleshooting Approach
+
 When a user reported a connectivity issue, I followed a structured troubleshooting process:
 
 1. Identify the user and location : Confirm the affected user's details and branch/location.
-                                   Determine whether the issue affects one user or multiple users.
+                                  :Determine whether the issue affects one user or multiple users.
 
 2.Establish the scope of the issue : Ask the user whether other users are experiencing the same problem.
-                                   Consider whether the issue may be workstation-specific or related to the branch network
+                                   :Consider whether the issue may be workstation-specific or related to the branch network
 
 3.Check the basic connection : Confirm that the workstation is connected to the network.
                              :Check whether the network connection appears active.
