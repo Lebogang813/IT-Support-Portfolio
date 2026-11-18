@@ -26,4 +26,4 @@ The guides are written from my own hands-on experience and contain no credential
 
 Lebogang Monyela, Computer Systems Engineering graduate with IT support experience, building towards a career in cybersecurity.
 
-LinkedIn: [add your link]
+LinkedIn: [Lebogang Monyela](https://www.linkedin.com/in/lebogang-monyela)
